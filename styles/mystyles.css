@@ -1,0 +1,44 @@
+/*Ryleigh Pritchett, Dec 16, 2021*/
+
+.pagebg{
+    background-image: url('../assets/images/differentbg.jpeg');
+}
+
+
+.bold {
+    font-weight: bold;
+    position: absolute;
+    top: 15px;
+    color: black;
+}
+
+a{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size:medium;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover{text-decoration: underline;}
+a:visited{color: #333333}
+
+.links{
+    position: absolute;
+    right: 5px;
+}
+
+h1{
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+}
+
+.smallheading{
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
+
+.copyright{color: white; font-size: x-large;
+    background-color: gray;}
